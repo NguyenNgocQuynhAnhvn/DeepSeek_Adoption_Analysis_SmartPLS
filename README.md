@@ -2,6 +2,8 @@
 **Tiếp cận theo mô hình mở rộng TAM**
 
 ---
+![Mô hình nghiên cứu TAM mở rộng](Image.png)
+---
 
 ##  Giới thiệu
 Dự án này tập trung nghiên cứu các **yếu tố ảnh hưởng đến sự chấp nhận sử dụng DeepSeek** – một công cụ trí tuệ nhân tạo hỗ trợ học tập và làm việc.  
