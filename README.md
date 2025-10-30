@@ -35,7 +35,7 @@ Nghiên cứu được thực hiện dựa trên **mô hình chấp nhận công
 ---
 
 ## 📂 Cấu trúc thư mục
-...
+'''
 │
 ├── data/ 
 ├── analysis/
@@ -43,7 +43,7 @@ Nghiên cứu được thực hiện dựa trên **mô hình chấp nhận công
 ├── docs/ 
 ├── img/ 
 └── README.md # File mô tả dự án (bạn đang đọc)
-...
+'''
 
 ## 📈 Kết quả nổi bật
 - Mức độ dễ sử dụng cảm nhận (PEOU) và mức độ hữu ích cảm nhận (PU) là hai yếu tố trung tâm ảnh
