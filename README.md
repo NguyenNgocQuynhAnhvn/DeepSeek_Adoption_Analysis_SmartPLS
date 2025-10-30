@@ -39,9 +39,8 @@ Nghiên cứu được thực hiện dựa trên **mô hình chấp nhận công
 ## 📂 Cấu trúc thư mục
 ```
 │
-├── data/ 
-├── analysis/
-├── results/ 
+├── Data_Analyst/ 
+├── Dataset/ 
 ├── docs/ 
 ├── img/ 
 └── README.md # File mô tả dự án (bạn đang đọc)
